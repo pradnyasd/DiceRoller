@@ -1,10 +1,6 @@
 # DiceRoller
 Simple dice roller Android application
 
-Dice Roller - Solution Code
-===========================
-
-Solution code for Android Kotlin Fundamentals Codelab 1.2: Get Started
 
 Introduction
 ------------
